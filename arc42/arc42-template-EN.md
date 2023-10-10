@@ -79,6 +79,13 @@ arc42 documentation.
 <div class="formalpara-title">
 
 **Contents**
+|            |                                                                                                                                                                                                                                                                   |   |   |   |
+|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|
+| usability  | Das erste Qualitätsziel ist die Benutzerfreundlichkeit. Um diesem <br>Anspruch gerecht zu werden, Ziel Die Anwendung sollte einfach zu <br>bedienen sein. Daher sollte das Layout prägnant und kohärent sein.                                                     |   |   |   |
+| securtiy   | Darüber hinaus ist die Sicherheit ein weiteres Ziel. Die Sicherheit <br>sollte Gewährleistet durch Datenverschlüsselung, Passwörter und Firewalls.                                                                                                                |   |   |   |
+| resilience | Der drittwichtigste Punkt, wenn es um Qualitätsziele geht, ist Resilienz. <br>Dies sollte durch die Verwendung der SOA-Webarchitektur sichergestellt werden, <br>Dies ermöglicht die Skalierung von Diensten, falls die Anzahl der Benutzer <br>schnell ansteigt. |   |   |   |
+|            |                                                                                                                                                                                                                                                                   |   |   |   |
+
 
 </div>
 
@@ -117,6 +124,14 @@ A table with quality goals and concrete scenarios, ordered by priorities
 <div class="formalpara-title">
 
 **Contents**
+
+|                         |                                                                              |   |   |   |
+|-------------------------|------------------------------------------------------------------------------|---|---|---|
+| StudentInnen            | Noten, persönliche Daten, Stundenplan einsehen.                              |   |   |   |
+| LektorInnen             | Lernmaterial veröffentlichen, Stundenplan einsehen, Gruppenkomumnikation     |   |   |   |
+| AdministratorInnen      | Studentendaten eingeben, Studenpläne gestalten, Informationsmais verschicken |   |   |   |
+| WartungsarbeiterInnen   | einfache Wartung, niedrige Fehleranfälligkeit                                |   |   |   |
+| Lernplattformen/ Kunden | Erreichen von interessierten Studenten, schaltung von Werbefenstern          |   |   |   |
 
 </div>
 
